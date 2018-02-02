@@ -5,7 +5,7 @@ void main()
 int a,b=0,i;
 char s[1000];
 //puts(enter the lines);
-scanf(s);
+gets(s);
 for(i=0;s[i]!=NULL;i++)
 {
 if(s[i]=='.')
